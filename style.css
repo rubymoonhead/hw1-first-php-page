@@ -1,0 +1,38 @@
+body {
+	background-color:#ffc8c8;
+}
+
+h1 {
+	color: #444f5a;
+	font-size: 40px;
+	margin: 25px;
+	font-family: 'Courier';
+}
+
+figure {
+	width: 500px;
+	height: auto;
+	text-align: center;
+	border: 3px #ff9999 solid;
+	padding: 10px;
+}
+
+img {
+	vertical-align: middle;
+	width: 200px;
+	height: auto;
+}
+
+figcaption {
+	font-family: 'Courier';
+	text-align: center;
+	padding: 3px;
+}
+
+p {
+	color: #3e4149;
+	font-size: 20px;
+	margin: 25px;
+	font-family: 'Courier';
+}
+
