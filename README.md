@@ -1,2 +1,1 @@
-# hw1-first-php-page
-first index.php web page
+My first index.php web page created in COSW30 at LBCC.
